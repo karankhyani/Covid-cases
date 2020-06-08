@@ -5,3 +5,8 @@ Total-Cases,
 Deaths and 
 Recoveries of Corona patients.
 
+
+![](images/mainScreen.png)
+
+
+![](images/stateScreen.png)
